@@ -6,7 +6,7 @@
 
 ## Installation
 
-```
+```bash
 git clone https://github.com/xeyossr/gofetch.git
 cd gofetch
 make install
